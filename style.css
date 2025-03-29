@@ -558,4 +558,7 @@ h3 { font-size: 2rem; }
     .stats {
         grid-template-columns: 1fr;
     }
+    .hero{
+        min-height:30vh !important;
+    }
 }
