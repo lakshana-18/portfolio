@@ -520,6 +520,7 @@ h3 { font-size: 2rem; }
     }
     .hero{
         min-height:30vh !important;
+        height:30vh !important;
     }
 
     .nav-menu.active {
@@ -560,5 +561,6 @@ h3 { font-size: 2rem; }
     }
     .hero{
         min-height:30vh !important;
+        height:30vh !important;
     }
 }
